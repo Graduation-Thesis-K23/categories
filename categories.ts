@@ -14,7 +14,7 @@ export default [
     id: 1,
     src: springRolls,
     textKey: "springRolls",
-    href: "/search?categories=spring-rolls",
+    href: "/search?categories=springRolls",
   },
   {
     id: 2,
