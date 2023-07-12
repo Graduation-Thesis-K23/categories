@@ -21,3 +21,5 @@ export default [
     src: a4,
   },
 ];
+
+//   phone: string;
